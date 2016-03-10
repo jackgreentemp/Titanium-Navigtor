@@ -1,5 +1,6 @@
 /**
  * Global Navigation Handler
+ * 
  */
 Alloy.Globals.Navigator = {
 	
